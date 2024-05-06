@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">P E A C I F Y</string>
+    <string name="hitext">Hey, there</string>
+    <string name="welcome_text">Welcome Back!</string>
+    <string name="account_create">Create an Account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="emailid">Email ID</string>
+    <string name="passy">Set a Password</string>
+    <string name="register">" Register "</string>
+    <string name="forgot">Forgot Your Password?</string>
+    <string name="Login">" Login "</string>
+    <string name="haveaccount">Already have an account?</string>
+    <string name="havenot_account">Don\'t have an account yet?</string>
+    <string name="home">Home</string>
+    <string name="log_out">Logout</string>
+</resources>
