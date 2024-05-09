@@ -2,10 +2,6 @@
 Hey! This is an Android app that explains complete login workflow using Kotlin, Jetpack Compose and Firebase Auth
 
 ## Our Solution
-![gsc3](https://user-images.githubusercontent.com/89447707/161247192-cd2873ae-5d56-42c4-ada6-7943ef848b3c.png)
-## ->Community Feed :Dedicated feed for students to express their views among community.
-## ->Counsellor Support:Connect with Counsellor through chat and video call  support.
-## -> Chat Bot :Find solutions to your problems with the help of a personalized chat bot.
 ## ->Choosing your Role
 ![gsc4](https://user-images.githubusercontent.com/89447707/161247943-b9229cfe-4b5e-406f-aeca-125b899aa86b.png)
  ## ->College Administration provide the counsellors with unique code through which they can login through unique college IDs
